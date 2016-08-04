@@ -1,0 +1,37 @@
+_repo: Arizona-Nights_753
+_version: 0.0.1
+creator:
+  author:
+    agent_name: White, Stewart Edward
+    birthdate: 1873
+    deathdate: 1946
+    gutenberg_agent_id: '247'
+    url: http://www.gutenberg.org/2009/agents/247
+    wikipedia: http://en.wikipedia.org/wiki/Stewart_Edward_White
+description: The Shelf2Life Western Fiction Collection is a fascinating set of pre-1923
+  materials that capture the beauty, mystery and adventure of the old west. From honorable
+  cowboys and spirited pioneer women to questionable sheriffs, notorious gunslingers
+  and unruly outlaws, these classic westerns introduce lively characters who embody
+  the essence of the American frontier. Authentic dialog combined with vivid scenic
+  descriptions help re-create a time and place where chasing cattle rustlers, tracking
+  wild horses and fighting for land were a part of everyday life, highlighting the
+  strength of character necessary to survive. The Shelf2Life Western Fiction Collection
+  allows readers to escape the modern world and be transported into the rough and
+  tumble escapades of the Wild West.
+gutenberg_issued: '1996-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '753'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Arizona -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Cattle breeders -- Fiction'
+- !lcsh 'Cowboys -- Fiction'
+- GITenberg
+title: Arizona Nights
+url: http://www.gutenberg.org/ebooks/753
