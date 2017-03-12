@@ -1,5 +1,8 @@
 _repo: Arizona-Nights_753
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: White, Stewart Edward
@@ -18,6 +21,8 @@ description: The Shelf2Life Western Fiction Collection is a fascinating set of p
   strength of character necessary to survive. The Shelf2Life Western Fiction Collection
   allows readers to escape the modern world and be transported into the rough and
   tumble escapades of the Wild West.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/753#Arizona-Nights
 gutenberg_issued: '1996-12-01'
 gutenberg_type: Text
 identifiers:
